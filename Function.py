@@ -17,6 +17,12 @@ def fun():
 fun()                 # function calling
 
 
+def Ram(self):
+    return "ram bad"
+   
+Ram()
+
+
 #Arguments.......
 ''' Can pass the arguments in the function inside the parenthesis. '''
 def fun(fruit, color):
